@@ -82,8 +82,6 @@ app/
 - [Kotlin Programming Language](https://kotlinlang.org/docs/home.html)
 - [Android Developers Documentation](https://developer.android.com/docs)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - Android Developers documentation and tutorials
